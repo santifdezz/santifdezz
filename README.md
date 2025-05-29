@@ -1,4 +1,4 @@
-## Hola! / Hi there 👋
+## Hola! / Hi! 👋
 
 - 🔭 Actualmente trabajando en: proyectos personales de datos y mejorando mi portafolio.  
 - 🌱 Actualmente aprendiendo: análisis de datos avanzado, plataformas cloud y machine learning.  
