@@ -6,8 +6,7 @@
 - 🤔 Busco ayuda con: encontrar oportunidades laborales en el área de datos.  
 - 💬 Pregúntame sobre: pipelines de datos, Python, SQL y automatización.  
 - 📫 Puedes contactarme en: [santifdezseo@gmail.com](mailto:santifdezseo@gmail.com) o [LinkedIn](https://www.linkedin.com/in/santifdezseo)  
-- 😄 Pronombres: he/him  
-- ⚡ Fun fact: cuando me aburro vuelo y sobretodo, choco drones 😄
+- ⚡ Fun fact: cuando me aburro vuelo drones y sobretodo los choco 😄
 
 ---
 
@@ -17,8 +16,7 @@
 - 🤔 I’m looking for help with: finding job opportunities in data roles.  
 - 💬 Ask me about: data pipelines, Python, SQL, and automation.  
 - 📫 How to reach me: [santifdezseo@gmail.com](mailto:santifdezseo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/santifdezseo)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: when I get bored, I code for fun — and mostly crash drones 😄
+- ⚡ Fun fact: when I get bored, I fly drones — and mostly crash them 😄
 
 
 
