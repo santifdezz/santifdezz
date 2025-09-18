@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sfseoane.es/](https://sfseoane.es/)
 
-- 💬 Ask me about **Data, AI Training or aboyt a programming language**
+- 💬 Ask me about **Data, AI Training or about a programming language**
 
 - 📫 How to reach me **santifdezseo@gmail.com**
 
