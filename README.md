@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santifdezz" alt="santifdezz" /></a> </p>
 
-- 🔭 I’m currently working on [Makineo - Techno Event list Platform](https://www.makineo.es)
+- 🔭 I’m currently working at Qaleon as Data Scientist.
 
 - 👨‍💻 All of my projects are available at [https://sfseoane.es/](https://sfseoane.es/)
 
